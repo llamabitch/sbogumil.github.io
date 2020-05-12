@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Gallery
 permalink: /images/
 galleries:
   - title: Avenue Q
