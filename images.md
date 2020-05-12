@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /gallery/
+permalink: /images/
 galleries:
   - title: Avenue Q
     image: /images/avenue-q/44092814220_1ce2a75480_o.jpg
