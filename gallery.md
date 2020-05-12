@@ -3,9 +3,9 @@ layout: page
 title: About
 permalink: /gallery/
 galleries:
-  - title: Link to homepage
-    image: /images/gallery1/1.jpg
-    url: /images/gallery1
+  - title: Avenue Q
+    image: /images/avenue-q/4092814220_1ce2a75480_o.jpg
+    url: /images/avenue-q
   - title: Link to image gallery
     image: /images/gallery2/1.jpg
     url: /images/gallery2
